@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SystemBar</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="initialize_fragment">Initialize Fragment</string>
+    <string name="other_activity">Other Activity</string>
+    <string name="hello">Hello</string>
+    <string name="order_fragment">Order Fragment</string>
+</resources>

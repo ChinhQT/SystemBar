@@ -1,0 +1,26 @@
+<resources>
+
+    <style name="MyApp" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimaryDark">@android:color/transparent</item>
+
+        <item name="android:navigationBarColor">
+            @android:color/transparent
+        </item>
+
+        <!-- Optional: set to transparent if your app is drawing behind the status bar. -->
+        <item name="android:statusBarColor">
+            @android:color/transparent
+        </item>
+
+        <!-- Optional: set the status bar light and content dark. -->
+        <item name="android:windowLightStatusBar">
+            false
+        </item>
+
+        <item name="android:windowTranslucentStatus">
+            false
+        </item>
+        
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+</resources>
